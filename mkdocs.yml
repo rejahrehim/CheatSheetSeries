@@ -4,6 +4,7 @@ docs_dir: cheatsheets/
 plugins:
     - search:
         prebuild_index: true
+google_analytics: ['UA-4531126-15', 'auto']
 #theme:
 #     name: readthedocs
 #     custom_dir: custom_theme/
